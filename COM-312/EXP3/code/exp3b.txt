@@ -1,0 +1,5 @@
+sed is stream editor where 
+files can be edited
+it helps in performing operations like 
+deleting, inserting and find or replace
+in the file 
